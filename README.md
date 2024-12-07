@@ -77,10 +77,9 @@ README.md: Documentation
 ```
 
 ## How to make it a better assignment
-```
+
 
 Include specific test cases that students must implement, covering edge cases and concurrent access scenarios. This would help ensure thorough understanding of transaction behavior.
 
 Require students to document their design decisions and trade-offs, particularly around memory usage and performance characteristics. This would encourage deeper thinking about system design.
 
-```
